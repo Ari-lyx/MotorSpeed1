@@ -27,6 +27,7 @@
 #include <stdio.h>
 #include "motor.h"    // 包含电机驱动头文件
 #include "encoder.h"  // 包含编码器驱动头文件
+#include "pid.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
