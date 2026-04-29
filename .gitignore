@@ -1,0 +1,42 @@
+# --- Keil 编译产生的中间和输出文件 ---
+*.obj
+*.lst
+*.m51
+*.src
+*.cor
+*.lnp
+*.htm
+*.build_log.htm
+*.dep
+*.axf
+*.elf
+*.hex
+*.bin
+*.out
+*.map
+*.txt
+*.uvgui.*
+*.uvguix.*
+*.uvopt
+*.uvoptx
+*.tmp
+*.iex
+*.i
+*.crf
+*.d
+*.o
+*.uvprojx
+*.uvoptx
+*.scvd
+
+# --- 编译过程文件夹 ---
+Listings/
+Objects/
+DebugConfig/
+rte/
+_Config/
+Eide_ws/
+
+# --- 操作系统及其他 ---
+.DS_Store
+Thumbs.db
